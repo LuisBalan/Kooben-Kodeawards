@@ -1,4 +1,4 @@
-//estos nutrientes son por cada 100 gramos
+//estos nutrientes son por cada gramo de ingrediente
 
 const ingredients1 = {
     tomates: {
