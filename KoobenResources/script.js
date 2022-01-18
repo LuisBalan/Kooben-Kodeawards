@@ -181,4 +181,4 @@ const getNutritionFacts = (obj, ingredient, ingredientQuantity, unitMeasurement)
     console.log(ingredientQuantity, unitMeasurement, 'de' , ingredient, `(${(portionIngredientInGrams)} gramos)`, 'contiene :', infoPerIngredient);
 };
 //ejecutar la función cambiando los parámetros del 2 al 4:
-getNutritionFacts(ingredients1, "zanahoria", 5, "cucharada");
+getNutritionFacts(ingredients1, "zanahoria", 5, "gramos");
